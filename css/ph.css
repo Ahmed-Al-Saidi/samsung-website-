@@ -1,0 +1,92 @@
+body {
+    backdrop-filter: blur(20px);
+}
+
+
+.card:hover {
+    color: black;
+    box-shadow: 7px 7px 10px white;
+    height: 157px;
+}
+
+.card p {
+    color: black;
+    font-weight: bold;
+}
+
+.card-5 {
+    background-image: url("../imge/S5.jpg");
+}
+
+.card-6 {
+    background-image: url("../imge/S6\ \(2\).jpg");
+}
+
+.card-8 {
+    background-image: url("../imge/S7.jpg");
+}
+
+.card-10 {
+    background-image: url("../imge/S8.jpg");
+}
+
+.card-11 {
+    background-image: url("../imge/S9.jpg");
+}
+
+.card-12 {
+    background-image: url("../imge/S10.jpg");
+}
+
+.card-13 {
+    background-image: url("../imge/S24.jpg");
+}
+
+.card-14 {
+    background-image: url("../imge/note5.jpg");
+}
+
+.card-15 {
+    background-image: url("../imge/note7.jpg");
+}
+
+.card-16 {
+    background-image: url("../imge/note8.jpg");
+
+}
+
+.card-17 {
+    background-image: url("../imge/tv1.jpg");
+    width: 200px;
+}
+
+.card-18 {
+    background-image: url("../imge/tv2.jpg");
+    width: 200px;
+}
+
+.card-19 {
+    background-image: url("../imge/tv3.jpg");
+    width: 200px;
+}
+
+.cord-19 footer {
+    margin-bottom: 50px;
+}
+
+.card footer span {
+    width: 100px;
+    color: cyan;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.card footer span del {
+    color: chartreuse;
+    font-style: italic;
+    font-size: x-small;
+}
+
+.card footer span:hover {
+    box-shadow: 5px 5px 5px green;
+}
